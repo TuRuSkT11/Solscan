@@ -1,2 +1,1 @@
-# Solscan
-Solana Wallet Watcher
+# In development
